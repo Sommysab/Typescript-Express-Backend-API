@@ -21,7 +21,7 @@ Installs the `tsc` cli on the local machine
 ### `yarn add`
 Installs packages that the project depends on
 
-### `yarn watch`
+### `yarn run watch`
 Starts up the application
 
 
